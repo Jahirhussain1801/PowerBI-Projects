@@ -16,6 +16,4 @@ Power BI | DAX | Data Modeling | KPI Design | Data Cleaning
 <img width="1438" height="804" alt="Screenshot 2025-10-04 175634" src="https://github.com/user-attachments/assets/a96419ae-c440-416b-bd31-fa0731f4d396" />
 
 
-### Files
-- Power BI Report: [`DataProfessionals.pbix`](./Reports/DataProfessionals.pbix)
-- Dataset: [`survey_data.csv`](./Data/survey_data.csv)
+
