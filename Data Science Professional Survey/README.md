@@ -13,8 +13,8 @@ Power BI | DAX | Data Modeling | KPI Design | Data Cleaning
 - Happiness Index (Salary): 5.86 | Work-Life Balance: 5.74
 
 ### Dashboard Preview
-![Dashboard Screenshot](<img width="1438" height="804" alt="Screenshot 2025-10-04 175634" src="https://github.com/user-attachments/assets/c377f7ad-cb14-439a-8959-00ebbf029b6e" />
-)
+![Dashboard Screenshot]<img width="1438" height="804" alt="Screenshot 2025-10-04 175634" src="https://github.com/user-attachments/assets/a96419ae-c440-416b-bd31-fa0731f4d396" />
+
 
 ### Files
 - Power BI Report: [`DataProfessionals.pbix`](./Reports/DataProfessionals.pbix)
